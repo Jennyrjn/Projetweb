@@ -94,6 +94,7 @@ body {
     margin-bottom: 5%;
     width: 100px;
     display: inline-flex
+    text-align : center;
 
 }
 
@@ -104,6 +105,7 @@ body {
     float: left;
     margin-left: 0 auto;
     margin-right: 0 auto;
+    text-align : center;
     
 
 }
