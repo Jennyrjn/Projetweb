@@ -93,6 +93,8 @@ body {
 
 #Gallery_1 img {
     margin: auto;
+    width: 20%;
+    height: 20%;
 }
 
 #Titre2{
