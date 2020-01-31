@@ -88,14 +88,14 @@ body {
 }
 
 #Gallery_1{
-    margin: center;
+    margin: 0 auto;
     display: block;
 }
 
 #Gallery_1 img {
-    margin: center;
-    width: 15%;
-    height: 15%;
+    margin: 0 auto;
+    width: 40%;
+    height: 40%;
     display: block;
 }
 
