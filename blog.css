@@ -89,12 +89,14 @@ body {
 
 #Gallery_1{
     margin: center;
+    display: block;
 }
 
 #Gallery_1 img {
     margin: center;
     width: 15%;
     height: 15%;
+    display: block;
 }
 
 #Titre2{
