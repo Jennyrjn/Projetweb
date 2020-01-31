@@ -88,23 +88,11 @@ body {
 }
 
 #Gallery_1{
-    margin-left: 0 auto;
-    margin-right : 0 auto;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    width: 100px;
-    display: inline-flex
-    text-align : center;
+    margin: auto;
 }
 
 #Gallery_1 img {
-    width: 800%;
-    height: 800%;
-    display: block
-    float: left;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
-    text-align : center;
+    margin: auto;
 }
 
 #Titre2{
