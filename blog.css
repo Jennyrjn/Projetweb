@@ -88,8 +88,8 @@ body {
 }
 
 #Gallery_1{
-    padding-left: 15%;
-    padding-right : 15%;
+    margin-left: 0 auto;
+    margin-right : 0 auto;
     margin-top: 5%;
     margin-bottom: 5%;
     width: 100px;
