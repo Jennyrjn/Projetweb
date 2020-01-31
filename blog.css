@@ -88,13 +88,13 @@ body {
 }
 
 #Gallery_1{
-    margin: auto;
+    margin: center;
 }
 
 #Gallery_1 img {
-    margin: auto;
-    width: 20%;
-    height: 20%;
+    margin: center;
+    width: 15%;
+    height: 15%;
 }
 
 #Titre2{
